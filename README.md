@@ -2,7 +2,6 @@
     <p>
         A secure and user-friendly web application for managing personal finances, enabling users to track expenses, gains, financial goals, and more.
     </p>
-
     <h2>Main Features</h2>
     <ul>
         <li><strong>User Management:</strong> Register, login, update details, and change passwords securely using JWT-based authentication.</li>
@@ -14,7 +13,6 @@
         <li><strong>Financial Notes:</strong> Create, update, and manage financial notes for personal reference.</li>
         <li><strong>Tagging and Querying:</strong> Assign tags to transactions or notes for better organization and quick retrieval.</li>
     </ul>
-
     <h2>Technology Stack</h2>
     <h3>Backend</h3>
     <ul>
@@ -26,7 +24,6 @@
         <li><strong>MongoDB:</strong> Unstructured database for notes and logs.</li>
         <li><strong>Spring Scheduler:</strong> Automate monthly calculations and threshold tracking.</li>
     </ul>
-
     <h3>Frontend</h3>
     <ul>
         <li><strong>Angular:</strong> Frontend framework for building dynamic and responsive UI.</li>
